@@ -1,0 +1,106 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTE", COMBATE
+http://stlahiper.b-cdn.net/live/combate/chunks.m3u8?token=IIabd_eAA9kIdNjTK7PeC8-bVvapxPb69axeYlxuPUE&expires=1665739392
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTE", TNT
+http://stlahiper.b-cdn.net/live/tnt/chunks.m3u8?token=Rvq87sLRaA_FmpvhdgOR2eL-u0ZRWtlYI3OQhpxqQvg&expires=1665739392
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTE", SPACE
+http://stlahiper.b-cdn.net/live/space/chunks.m3u8?token=NnrldKTgXz8HkXYuK9yj5Occ8I2AoEry-Oeh2HZ4IGo&expires=1665739392
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTE", PREMIERE CLUBES
+http://stlahiper.b-cdn.net/live/premiereclubes/chunks.m3u8?token=QgvpbX-6w82slfvDkqnu5bJ4LPqqgLwLDSnu67gUAm4&expires=1665739392
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTE", PREMIERE 2
+http://stlahiper.b-cdn.net/live/premiere2/chunks.m3u8?token=AfcVthSW53DP30Oww4KR09RqJze_-wp-dRVNUoM0biI&expires=1665739392
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTE", PREMIERE 3
+http://stlahiper.b-cdn.net/live/premiere3/chunks.m3u8?token=Jo5EXVel_eGkrQmwitSy58uHz1JZBgACCBunQQ7maSk&expires=1665739392
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTE", PREIMERE 4
+http://stlahiper.b-cdn.net/live/premiere4/chunks.m3u8?token=AlmYqwxGKCY83k41BVxKtB-L3VCYuVkAbkgM9ArafKA&expires=1665739392
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTE", PREMIERE 5
+http://stlahiper.b-cdn.net/live/premiere5/chunks.m3u8?token=7C1BGsUwy8KQMe9RMiRpGEjOCUXaXaP-VPpCoNdqRx4&expires=1665739392
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTE", PREMIERE 6
+http://stlahiper.b-cdn.net/live/premiere6/chunks.m3u8?token=2nCiItRB-EEWDXyg9pXkK9bEe9Jp_g9n6p1z9hd2W98&expires=1665739392
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTE", PREMIERE 7
+http://stlahiper.b-cdn.net/live/premiere7/chunks.m3u8?token=ZvyVzLnILRWE1T_qYr0PrOoXM3LBKQdG76mRD1xshpg&expires=1665739392
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTE", SPORTV
+http://stlahiper.b-cdn.net/live/sportv/chunks.m3u8?token=gkN0L2F15K4y4G1R1048V7Ma8O24ntoCjSNZqa0ba5Y&expires=1665739392
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTE", SPORTV 2
+http://stlahiper.b-cdn.net/live/sportv2/chunks.m3u8?token=tTU12Z89AdPEmZeijj7gyTM5dOGAhm7Q02SHZ4DTK-0&expires=1665741119
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTE", SPORTV 3
+http://stlahiper.b-cdn.net/live/sportv3/chunks.m3u8?token=nnRaeRFOEvDUxju278l6CsB6WDPTlBWJF67maF2z0Wo&expires=1665739392
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTE", ESPN
+http://stlahiper.b-cdn.net/live/espn/chunks.m3u8?token=FmzfBF-iQt4BaXNFuVO9JyQJKIp7r6REn7LxfAX_xiU&expires=1665739392
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTE", ESPN 2
+http://stlahiper.b-cdn.net/live/espn2/chunks.m3u8?token=7AoINwsppjTBBaHQcBLLDoM-IFgRdLc7y_E2vZIhYxc&expires=1665739392
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTE", ESPEN 4
+http://stlahiper.b-cdn.net/live/espn4/chunks.m3u8?token=clTG4jIOQA3eCeweRmop5MWD2oOWr_iTPwDxSjfrdbE&expires=1665739392
+
+#EXTINF:-1 tvg-logo="" group-title="FILME", TNT
+http://stlahiper.b-cdn.net/live/tnt/chunks.m3u8?token=I7oMOk6FmKpAYJ1oVxijEK_5VVBDx--rOlgeSFrNnR4&expires=1665739777
+
+#EXTINF:-1 tvg-logo="" group-title="FILME", HBO
+http://stlahiper.b-cdn.net/live/hbo/chunks.m3u8?token=wzveWajH0ttCwvDmzwRA8nEnOPrijZYZ5dE9YSYboeE&expires=1665739777
+
+#EXTINF:-1 tvg-logo="" group-title="FILME", HBO 2
+http://stlahiper.b-cdn.net/live/hbo2/chunks.m3u8?token=YGoKQysgQZ-2fuLcYxlrI2U0s9f7qbkSW02orUpB7r8&expires=1665739777
+
+#EXTINF:-1 tvg-logo="" group-title="FILME", FX
+http://stlahiper.b-cdn.net/live/fx/chunks.m3u8?token=MPNogGQ-4C2kQ_upbufC4-S74vFEOLQWrDw5ppt3b0M&expires=1665739777
+
+#EXTINF:-1 tvg-logo="" group-title="FILME", SPACE
+http://stlahiper.b-cdn.net/live/space/chunks.m3u8?token=c856Z_9nbmKojYGvRgmkM847AHcuP2GpDL68cH02gWI&expires=1665739777
+
+#EXTINF:-1 tvg-logo="" group-title="FILME", TNT 
+http://stlahiper.b-cdn.net/live/tntseries/chunks.m3u8?token=yJR5RqNiX5DNOCt5fYs_vvI-eRaVv7E3lOAu76QO1VE&expires=1665739777
+
+#EXTINF:-1 tvg-logo="" group-title="FILME", TELECINE ACTION
+http://stlahiper.b-cdn.net/live/telecineaction/chunks.m3u8?token=Oj5fiLXRjq1gdqWFfAfo-lCHmi6ptuiUaxFZsUXyiKI&expires=1665739777
+
+#EXTINF:-1 tvg-logo="" group-title="FILME", TELECINE PIPOCA
+http://stlahiper.b-cdn.net/live/telecinepipoca/chunks.m3u8?token=orOfr4iFanpU7jHdBMmi8Mrq3VX7OQTAdcBaniJ1ok8&expires=1665739777
+
+#EXTINF:-1 tvg-logo="" group-title="FILME", TELECINE PREMIUM
+http://stlahiper.b-cdn.net/live/telecinepremium/chunks.m3u8?token=KtHyDBZuMQ3Q_eDSeolKXgDKdKN9Nh2KOHQqfeyiYyw&expires=1665739777
+
+#EXTINF:-1 tvg-logo="" group-title="FILME", WARNER CHANNEL
+http://stlahiper.b-cdn.net/live/warnerchannel/chunks.m3u8?token=WZZ4KQGHDZMh3JIKSzJRad-n3tT5jltARoJTl2JjfuE&expires=1665739777
+
+#EXTINF:-1 tvg-logo="" group-title="FILME", UNIVERSAL CHANNEL
+http://stlahiper.b-cdn.net/live/universalchannel/chunks.m3u8?token=slSO3dUu45W6COmgkWHnI6_lMg3BtPul2bC0ZSE9-dU&expires=1665739777
+
+#EXTINF:-1 tvg-logo="" group-title="FILME", MEGAPIX
+http://stlahiper.b-cdn.net/live/megapix/chunks.m3u8?token=ILo_hFTyCtuVR9fRnQ9M08mImN9E7NswRz8FYTPiHkg&expires=1665739777
+
+#EXTINF:-1 tvg-logo="" group-title="FILME", AXN
+http://stlahiper.b-cdn.net/live/axn/chunks.m3u8?token=TpvwRXM2HHS0TjVflJJLovSKRbb_WmGy_-2LpJJ7v_0&expires=1665739777
+
+#EXTINF:-1 tvg-logo="" group-title="FILME", AE
+http://stlahiper.b-cdn.net/live/ae/chunks.m3u8?token=CTrqYlphw3eEbuyzxJjA44ERnK2A7RgD4BVE1pOCazo&expires=1665739777
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL", GLOOB
+http://stlahiper.b-cdn.net/live/gloob/chunks.m3u8?token=Sf00pGLvIMvX1IgXg7Umx-0P0dJhzbi6I5mH9z9LmAk&expires=1665740450
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL", DISKOVERY KIDS
+http://stlahiper.b-cdn.net/live/discoverykids/chunks.m3u8?token=AyeNpGDUXcoEVAQIZd1Y4K-e6t9ChU3-yZNbTQ44X_Y&expires=1665740450
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL", CARTOON NETWORK
+http://stlahiper.b-cdn.net/live/cartoonnetwork/chunks.m3u8?token=TTV7L6Lu1tWAhYN-QZQLZy0GE3qwyxmIutBDzovx4Ss&expires=1665740450
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL", NICKELODEON
+http://stlahiper.b-cdn.net/live/nickelodeon/chunks.m3u8?token=4Oz4sXVXZL1_ikogmbuaGvj6iCDyec665PMpuriDyfw&expires=1665740450
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL", DISNEY CHANNEL
+http://stlahiper.b-cdn.net/live/disneychannel/chunks.m3u8?token=9S4QiUi2XOFQDzj9WH3fXsFF3Wc2Bx8wN5jtFZpi7XU&expires=1665740515
