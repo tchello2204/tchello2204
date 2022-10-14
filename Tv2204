@@ -291,6 +291,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de5
 #EXTINF:-1 tvg-logo="" group-title="HUMOR | ENTRETENIMENTO | SERIES",Tokusato | ligação 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
+#EXTINF:-1 tvg-logo="" group-title="HUMOR | ENTRETENIMENTO | SERIES", Rede Brasil - TV Marajoara (PA)
+http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="JUVENIL", GLOOB
 http://stlahiper.b-cdn.net/live/gloob/chunks.m3u8?token=8rarmHN5FZ2cnJSPcwqbpic8W_07YOujccCP2yz2Iz0&expires=1665813803
 
