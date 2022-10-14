@@ -31,22 +31,22 @@ http://stlahiper.b-cdn.net/live/premiere6/chunks.m3u8?token=2nCiItRB-EEWDXyg9pXk
 http://stlahiper.b-cdn.net/live/premiere7/chunks.m3u8?token=ZvyVzLnILRWE1T_qYr0PrOoXM3LBKQdG76mRD1xshpg&expires=1665739392
 
 #EXTINF:-1 tvg-logo="" group-title="ESPORTE", SPORTV
-http://stlahiper.b-cdn.net/live/sportv/chunks.m3u8?token=gkN0L2F15K4y4G1R1048V7Ma8O24ntoCjSNZqa0ba5Y&expires=1665739392
+http://stlahiper.b-cdn.net/live/sportv/chunks.m3u8?token=Rdljq1MSxqPI5Mrpej1c89QVZlKwrBAj1ouVduaZG-o&expires=1665814168
 
 #EXTINF:-1 tvg-logo="" group-title="ESPORTE", SPORTV 2
-http://stlahiper.b-cdn.net/live/sportv2/chunks.m3u8?token=tTU12Z89AdPEmZeijj7gyTM5dOGAhm7Q02SHZ4DTK-0&expires=1665741119
+http://stlahiper.b-cdn.net/live/sportv2/chunks.m3u8?token=fUUZ2Q3QQRuKtnIh7ODcY1a0M23GJX-2NMrLnPXNHUE&expires=1665814168
 
 #EXTINF:-1 tvg-logo="" group-title="ESPORTE", SPORTV 3
-http://stlahiper.b-cdn.net/live/sportv3/chunks.m3u8?token=nnRaeRFOEvDUxju278l6CsB6WDPTlBWJF67maF2z0Wo&expires=1665739392
+http://stlahiper.b-cdn.net/live/sportv3/chunks.m3u8?token=EnLxgnFvcXODgo36qEhEtYjJaqWZmEgoX_oB3TGk__g&expires=1665814168
 
 #EXTINF:-1 tvg-logo="" group-title="ESPORTE", ESPN
-http://stlahiper.b-cdn.net/live/espn/chunks.m3u8?token=FmzfBF-iQt4BaXNFuVO9JyQJKIp7r6REn7LxfAX_xiU&expires=1665739392
+http://stlahiper.b-cdn.net/live/espn/chunks.m3u8?token=hdz4cqUBG62gsTCHV-DscmyrCDD0mM5nCHJGoE8VmRM&expires=1665814168
 
 #EXTINF:-1 tvg-logo="" group-title="ESPORTE", ESPN 2
-http://stlahiper.b-cdn.net/live/espn2/chunks.m3u8?token=7AoINwsppjTBBaHQcBLLDoM-IFgRdLc7y_E2vZIhYxc&expires=1665739392
+http://stlahiper.b-cdn.net/live/espn2/chunks.m3u8?token=EatGg5L8qZarmAayUxSaO_j4jMUAOQkUbnJDC2CcTAg&expires=1665814168
 
-#EXTINF:-1 tvg-logo="" group-title="ESPORTE", ESPEN 4
-http://stlahiper.b-cdn.net/live/espn4/chunks.m3u8?token=clTG4jIOQA3eCeweRmop5MWD2oOWr_iTPwDxSjfrdbE&expires=1665739392
+#EXTINF:-1 tvg-logo="" group-title="ESPORTE", ESPN 4
+http://stlahiper.b-cdn.net/live/espn4/chunks.m3u8?token=pE9MeewdTomdxKl1o2djRFIPVilWMLZO-du9M8haDRA&expires=1665814168
 
 #EXTINF:-1 tvg-logo="" group-title="ESPORTE",MLS - Futebol | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
