@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="" group-title="ESPORTE", COMBATE
-http://stlahiper.b-cdn.net/live/combate/chunks.m3u8?token=IIabd_eAA9kIdNjTK7PeC8-bVvapxPb69axeYlxuPUE&expires=1665739392
+http://stlahiper.b-cdn.net/live/combate/chunks.m3u8?token=i-rC0h3XrNlLFjw7FXY3ZWAjVXqadzsto7HcpVhVVOU&expires=1665820561
 
 #EXTINF:-1 tvg-logo="" group-title="ESPORTE", TNT
 http://stlahiper.b-cdn.net/live/tnt/chunks.m3u8?token=Rvq87sLRaA_FmpvhdgOR2eL-u0ZRWtlYI3OQhpxqQvg&expires=1665739392
@@ -10,25 +10,25 @@ http://stlahiper.b-cdn.net/live/tnt/chunks.m3u8?token=Rvq87sLRaA_FmpvhdgOR2eL-u0
 http://stlahiper.b-cdn.net/live/space/chunks.m3u8?token=NnrldKTgXz8HkXYuK9yj5Occ8I2AoEry-Oeh2HZ4IGo&expires=1665739392
 
 #EXTINF:-1 tvg-logo="" group-title="ESPORTE", PREMIERE CLUBES
-http://stlahiper.b-cdn.net/live/premiereclubes/chunks.m3u8?token=QgvpbX-6w82slfvDkqnu5bJ4LPqqgLwLDSnu67gUAm4&expires=1665739392
+http://stlahiper.b-cdn.net/live/premiereclubes/chunks.m3u8?token=gqJU7PgEJmlRo7KMi0k-3WlSNaBUB_e9Etc30F_zX8g&expires=1665820561
 
 #EXTINF:-1 tvg-logo="" group-title="ESPORTE", PREMIERE 2
-http://stlahiper.b-cdn.net/live/premiere2/chunks.m3u8?token=AfcVthSW53DP30Oww4KR09RqJze_-wp-dRVNUoM0biI&expires=1665739392
+http://stlahiper.b-cdn.net/live/premiere2/chunks.m3u8?token=3n47RMEVhCBF9r9fiavV_XbM3bM1suMfdrklPRrmq4M&expires=1665820561
 
 #EXTINF:-1 tvg-logo="" group-title="ESPORTE", PREMIERE 3
-http://stlahiper.b-cdn.net/live/premiere3/chunks.m3u8?token=Jo5EXVel_eGkrQmwitSy58uHz1JZBgACCBunQQ7maSk&expires=1665739392
+http://stlahiper.b-cdn.net/live/premiere3/chunks.m3u8?token=lVJ95uu8YO1lnUVjE7z4zegwYc8iJ6TPmrpsj0ys1kw&expires=1665820561
 
 #EXTINF:-1 tvg-logo="" group-title="ESPORTE", PREIMERE 4
-http://stlahiper.b-cdn.net/live/premiere4/chunks.m3u8?token=AlmYqwxGKCY83k41BVxKtB-L3VCYuVkAbkgM9ArafKA&expires=1665739392
+http://stlahiper.b-cdn.net/live/premiere4/chunks.m3u8?token=adsnOIL0cGAqHUWow1_KMeQkLFGJQAM6VEUP5huCk7I&expires=1665820561
 
 #EXTINF:-1 tvg-logo="" group-title="ESPORTE", PREMIERE 5
-http://stlahiper.b-cdn.net/live/premiere5/chunks.m3u8?token=7C1BGsUwy8KQMe9RMiRpGEjOCUXaXaP-VPpCoNdqRx4&expires=1665739392
+http://stlahiper.b-cdn.net/live/premiere5/chunks.m3u8?token=P9lAjgG8_vnHsB1unL4N8Xhc5CuVaGQZ6_M0rLbdGxo&expires=1665820561
 
 #EXTINF:-1 tvg-logo="" group-title="ESPORTE", PREMIERE 6
-http://stlahiper.b-cdn.net/live/premiere6/chunks.m3u8?token=2nCiItRB-EEWDXyg9pXkK9bEe9Jp_g9n6p1z9hd2W98&expires=1665739392
+http://stlahiper.b-cdn.net/live/premiere6/chunks.m3u8?token=JMOe-0CO07pZ4qHFYb7C0iJRG26L4jdscH31SId8n5g&expires=1665820561
 
 #EXTINF:-1 tvg-logo="" group-title="ESPORTE", PREMIERE 7
-http://stlahiper.b-cdn.net/live/premiere7/chunks.m3u8?token=ZvyVzLnILRWE1T_qYr0PrOoXM3LBKQdG76mRD1xshpg&expires=1665739392
+http://stlahiper.b-cdn.net/live/premiere7/chunks.m3u8?token=tDoko9cz0EfDA8phLzp3vXKDDq3vq-KwCJlD3A7RNCQ&expires=1665820561
 
 #EXTINF:-1 tvg-logo="" group-title="ESPORTE", SPORTV
 http://stlahiper.b-cdn.net/live/sportv/chunks.m3u8?token=Rdljq1MSxqPI5Mrpej1c89QVZlKwrBAj1ouVduaZG-o&expires=1665814168
