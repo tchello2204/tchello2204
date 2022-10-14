@@ -153,18 +153,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad63
 #EXTINF:-1 tvg-logo="" group-title="FILME",Ficção Científica | ligação 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-logo="" group-title="FILME",Filmes Nacionais | Plutão TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
-
-#EXTINF:-1 tvg-logo="" group-title="FILME",Filmes Nacionais | ligação 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-logo="" group-title="FILME",Filmes Suspense | Plutão TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
-
-#EXTINF:-1 tvg-logo="" group-title="FILME",Filmes Suspense | ligação 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
 #EXTINF:-1 tvg-logo="" group-title="FILME",Fronteira Filmes
 https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/master.m3u8
 
@@ -310,19 +298,19 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de5
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 tvg-logo="" group-title="JUVENIL", GLOOB
-http://stlahiper.b-cdn.net/live/gloob/chunks.m3u8?token=Sf00pGLvIMvX1IgXg7Umx-0P0dJhzbi6I5mH9z9LmAk&expires=1665740450
+http://stlahiper.b-cdn.net/live/gloob/chunks.m3u8?token=8rarmHN5FZ2cnJSPcwqbpic8W_07YOujccCP2yz2Iz0&expires=1665813803
 
 #EXTINF:-1 tvg-logo="" group-title="JUVENIL", DISKOVERY KIDS
-http://stlahiper.b-cdn.net/live/discoverykids/chunks.m3u8?token=AyeNpGDUXcoEVAQIZd1Y4K-e6t9ChU3-yZNbTQ44X_Y&expires=1665740450
+http://stlahiper.b-cdn.net/live/discoverykids/chunks.m3u8?token=w5Amp5x5IAAODVELk1FkM10Ls6z-iJxcfjXvY6NcIJE&expires=1665813803
 
 #EXTINF:-1 tvg-logo="" group-title="JUVENIL", CARTOON NETWORK
-http://stlahiper.b-cdn.net/live/cartoonnetwork/chunks.m3u8?token=TTV7L6Lu1tWAhYN-QZQLZy0GE3qwyxmIutBDzovx4Ss&expires=1665740450
+http://stlahiper.b-cdn.net/live/cartoonnetwork/chunks.m3u8?token=vG8YVNe48WAN9i9NiQy9RK9wiKoXeYPaxEJs5bGTdyc&expires=1665813803
 
 #EXTINF:-1 tvg-logo="" group-title="JUVENIL", NICKELODEON
-http://stlahiper.b-cdn.net/live/nickelodeon/chunks.m3u8?token=4Oz4sXVXZL1_ikogmbuaGvj6iCDyec665PMpuriDyfw&expires=1665740450
+http://stlahiper.b-cdn.net/live/nickelodeon/chunks.m3u8?token=i3tjwIS6jzNUC5KGBT6tmbgIAMJJNhQUM5m8S_zgi4o&expires=1665813803
 
 #EXTINF:-1 tvg-logo="" group-title="JUVENIL", DISNEY CHANNEL
-http://stlahiper.b-cdn.net/live/disneychannel/chunks.m3u8?token=9S4QiUi2XOFQDzj9WH3fXsFF3Wc2Bx8wN5jtFZpi7XU&expires=1665740515
+http://stlahiper.b-cdn.net/live/disneychannel/chunks.m3u8?token=2xOknXrtmDdr8vKKZBRlo7xhKosIM4ijPRypt9Fsn_g&expires=1665813989
 
 #EXTINF:-1 tvg-logo="" group-title="JUVENIL",AniTV
 https://tv01.livemustv.com.br/livemustv1358/livemustv1358/playlist.m3u8
