@@ -40,7 +40,7 @@ http://stlahiper.b-cdn.net/live/sportv2/chunks.m3u8?token=FLpCffIIC87VUAREJCGg_g
 http://stlahiper.b-cdn.net/live/sportv3/chunks.m3u8?token=lvkKZm338lc6ypXHVzfpV4bPzuHnHYMShMHShIjqnk4&expires=1665803666
 
 #EXTINF:-1 tvg-logo="" group-title="ESPORTE", ESPN
-http://stlahiper.b-cdn.net/live/espn/chunks.m3u8?token=xmE4wgC2sDY63__saP4IzfwSteEtT5ynSmZIhY1G00o&expires=1665803666
+http://stlahiper.b-cdn.net/live/espn/chunks.m3u8?token=keyiUtQSurKZysJuu7xxsolSadpj0sXGE4ivUsO1E3E&expires=1665805984
 
 #EXTINF:-1 tvg-logo="" group-title="ESPORTE", ESPN 2
 http://stlahiper.b-cdn.net/live/espn2/chunks.m3u8?token=uHyC26i4vO1HBeHHFbtyLX1QJ3kPkd3rPnlk7XjjlAM&expires=1665803666
