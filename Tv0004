@@ -642,7 +642,7 @@ http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/44133.ts
 
 #EXTINF:-1 group-title="INFANTIS" tvg-logo="",GLOOB
-
+http://magod.b-cdn.net/live/gloob/chunks.m3u8?token=QXGJcossV8fSMaY1JG2d8-4OKWuThkN5nIIV5YHvGdY&expires=1665900508
 
 #EXTINF:-1 group-title="INFANTIS" tvg-logo="",GLOOB HD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13701.ts
@@ -663,7 +663,7 @@ http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/44145.ts
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13904.ts
 
 #EXTINF:-1 group-title="INFANTIS" tvg-logo="",DISCOVERY KIDS 
-
+http://magod.b-cdn.net/live/discoverykids/chunks.m3u8?token=u70ZAZbjHA_Ie05wMaA-YwkoNRS4e91vd1zUxAhyBXs&expires=1665900508
 
 #EXTINF:-1 group-title="INFANTIS" tvg-logo="",DISCOVERY KIDS 4K&8K
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/44158.ts
@@ -675,13 +675,13 @@ http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13678.ts
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13673.ts
 
 #EXTINF:-1 group-title="INFANTIS" tvg-logo="",CARTOON NETWORK 
-
+http://magod.b-cdn.net/live/cartoonnetwork/chunks.m3u8?token=bdSsrk9Y929xAhGe3zMhpe6YPc9mMfHBFxMWD1ME2JU&expires=1665900508
 
 #EXTINF:-1 group-title="INFANTIS" tvg-logo="",NICKELODEON HD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13897.ts7
 
 #EXTINF:-1 group-title="INFANTIS" tvg-logo="",NICKELODEON 
-
+http://magod.b-cdn.net/live/nickelodeon/chunks.m3u8?token=7iqIGS21gL_Wbnoz5BhofhY5RxukEa6cbtL-PnqyoTA&expires=1665900508
 
 #EXTINF:-1 group-title="INFANTIS" tvg-logo="",DISNEY HD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13782.ts
@@ -690,7 +690,7 @@ http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13782.ts
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13682.ts
 
 #EXTINF:-1 group-title="INFANTIS" tvg-logo="",DISNEY CHANNEL 
-
+http://magod.b-cdn.net/live/disneychannel/chunks.m3u8?token=VM-sC4bd_Dhp7UMHuNY5cs9o4MGGK8lqDvVkqbD_lZU&expires=1665900407
 
 #EXTINF:-1 group-title="INFANTIS" tvg-logo="",DISNEY JUNIOR HD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13754.ts
