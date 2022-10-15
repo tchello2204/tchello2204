@@ -3,6 +3,9 @@
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="", JOGOS|1
 https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/Z8fO7wOJ-He-aSvfd5B-EUTAPC1s9J9CWNssjjdEkS1hpiq4NkmumcyGNMO0i_S_4wV8Q3gf9f3i2V0bqNT_Fw/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
 
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="", JOGOS|2
+https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/uOF2w2gPDAQqrlET1MYVz0a2-TsNZjHVnvCMyhhhNEcKRr5ddqE9RLdd6ixU03INF19k-IwETQ2Nz7SwCtuLsQ/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live
+
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="",COMBATE 4K
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/14178.ts
 
