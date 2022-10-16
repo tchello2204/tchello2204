@@ -208,45 +208,45 @@ http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/43524.ts
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES E SÉRIES", TELECINE ACTION
-http://stlahiper.b-cdn.net/live/telecineaction/chunks.m3u8?token=Oj5fiLXRjq1gdqWFfAfo-lCHmi6ptuiUaxFZsUXyiKI&expires=1665739777
+http://magod.b-cdn.net/live/telecineaction/chunks.m3u8?token=nZ1nk9GqKtp5wP1nouAge1AlIDQ2_iwqDmVD68ygEvg&expires=1665927646
 
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES E SÉRIES", TELECINE PIPOCA
-
+http://magod.b-cdn.net/live/telecinepipoca/chunks.m3u8?token=luhxh8guAvAwcrESjBJHJ3q8I5A_oNTz2vxJls2K1gY&expires=1665927646
 
 
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES E SÉRIES", TELECINE PREMIUM
-
+http://magod.b-cdn.net/live/telecinepremium/chunks.m3u8?token=RKkQ_EWxCwzk_iI2RXVgVFs923YVbwtAfS3qhSiD50A&expires=1665927646
 
 
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES E SÉRIES", AXN
-
+http://magod.b-cdn.net/live/axn/chunks.m3u8?token=IF1UGt1zUp8eFZ8Qs6LS6CkEHC8xOqy6AojefKzmxDo&expires=1665927646
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES E SÉRIE", UNIVERSAL CHANNEL
-
+http://magod.b-cdn.net/live/universalchannel/chunks.m3u8?token=d0eSmd9ANZzzn1ywRh3AzY3ugzT4pk2Zp-wbygcfFr0&expires=1665927646
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES E SÉRIES", FX
 http://stlahiper.b-cdn.net/live/fx/chunks.m3u8?token=MPNogGQ-4C2kQ_upbufC4-S74vFEOLQWrDw5ppt3b0M&expires=1665739777
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES E SÉRIES", WARNER CHANNEL
-http://stlahiper.b-cdn.net/live/warnerchannel/chunks.m3u8?token=WZZ4KQGHDZMh3JIKSzJRad-n3tT5jltARoJTl2JjfuE&expires=1665739777
+http://magod.b-cdn.net/live/warnerchannel/chunks.m3u8?token=UpUvZD9iN31cRZhc0rq19YLTJR843qV3ufpzklG0UXU&expires=1665927646
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES E SÉRIES", TNT
-http://stlahiper.b-cdn.net/live/tnt/chunks.m3u8?token=I7oMOk6FmKpAYJ1oVxijEK_5VVBDx--rOlgeSFrNnR4&expires=1665739777
+http://magod.b-cdn.net/live/tnt/chunks.m3u8?token=lCkv5N4IRlhvbiVupKGch9oHtrqvU_-o_ryhlZ1rrAU&expires=1665927646
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES E SÉRIES", HBO
-http://stlahiper.b-cdn.net/live/hbo/chunks.m3u8?token=wzveWajH0ttCwvDmzwRA8nEnOPrijZYZ5dE9YSYboeE&expires=1665739777
+http://magod.b-cdn.net/live/hbo/chunks.m3u8?token=XfGb2QpghK9nPkq0oPbXSNBOzfto9Mf-M6u0eT0UTJ4&expires=1665927646
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES E SÉRIES", HBO 2
-http://stlahiper.b-cdn.net/live/hbo2/chunks.m3u8?token=YGoKQysgQZ-2fuLcYxlrI2U0s9f7qbkSW02orUpB7r8&expires=1665739777
+http://magod.b-cdn.net/live/hbo2/chunks.m3u8?token=1Ybd56flN7kdu5zNp-x3PevCP53wPb2KWTaNY28zeoM&expires=1665927646
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES E SÉRIES", SPACE
-http://stlahiper.b-cdn.net/live/space/chunks.m3u8?token=c856Z_9nbmKojYGvRgmkM847AHcuP2GpDL68cH02gWI&expires=1665739777
+http://magod.b-cdn.net/live/space/chunks.m3u8?token=o3TxVeBWbfwEpWeh_EL2H6iL0DwymJAFFyw7unTFRvg&expires=1665927646
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES E SÉRIES", MEGAPIX
-http://stlahiper.b-cdn.net/live/megapix/chunks.m3u8?token=ILo_hFTyCtuVR9fRnQ9M08mImN9E7NswRz8FYTPiHkg&expires=1665739777
+http://magod.b-cdn.net/live/megapix/chunks.m3u8?token=bQckf4rhN3y5deGstB2wVIVE8mVydunpuULMr0VEvSg&expires=1665927646
 
 #EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="",TELECINE ACTION 4K
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/14171.ts
