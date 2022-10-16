@@ -224,7 +224,7 @@ http://magod.b-cdn.net/live/telecinepremium/chunks.m3u8?token=RKkQ_EWxCwzk_iI2RX
 #EXTINF:-1 tvg-logo="" group-title="FILMES E SÉRIES", AXN
 http://magod.b-cdn.net/live/axn/chunks.m3u8?token=IF1UGt1zUp8eFZ8Qs6LS6CkEHC8xOqy6AojefKzmxDo&expires=1665927646
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES E SÉRIE", UNIVERSAL CHANNEL
+#EXTINF:-1 tvg-logo="" group-title="FILMES E SÉRIES", UNIVERSAL CHANNEL
 http://magod.b-cdn.net/live/universalchannel/chunks.m3u8?token=d0eSmd9ANZzzn1ywRh3AzY3ugzT4pk2Zp-wbygcfFr0&expires=1665927646
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES E SÉRIES", FX
