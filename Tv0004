@@ -19,7 +19,7 @@ http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13675.ts
 http://stlahiper.b-cdn.net/live/combate/chunks.m3u8?token=IIabd_eAA9kIdNjTK7PeC8-bVvapxPb69axeYlxuPUE&expires=1665739392
 
 #EXTINF:-1 tvg-logo="" group-title="ESPORTES", TNT
-http://stlahiper.b-cdn.net/live/tnt/chunks.m3u8?token=Rvq87sLRaA_FmpvhdgOR2eL-u0ZRWtlYI3OQhpxqQvg&expires=1665739392
+http://glxlmn026c.singularcdn.net.br:80/playout_01/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ESPORTES", PREMIERE CLUBES
 http://magod.b-cdn.net/live/premiereclubes/chunks.m3u8?token=PqzAhvybuL0D1_w0k8vNSjJ4wR2brKEH10TO-PfZfoQ&expires=1665920221
@@ -228,6 +228,9 @@ http://cdn2.connectbr.com.br/axn/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OdGSecB.jpg" group-title="FILMES E SÉRIES",A&E HD
 http://cdn.connectbr.com.br/AE/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OdGSecB.jpg" group-title="FILMES E SÉRIES",A&E 
+http://cdn.connectbr.com.br/AE/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="FILMES E SÉRIES", CANAL UNIVERSAL
 http://magod.b-cdn.net/live/universalchannel/chunks.m3u8?token=d0eSmd9ANZzzn1ywRh3AzY3ugzT4pk2Zp-wbygcfFr0&expires=1665927646
 
@@ -246,8 +249,8 @@ http://magod.b-cdn.net/live/hbo/chunks.m3u8?token=XfGb2QpghK9nPkq0oPbXSNBOzfto9M
 #EXTINF:-1 tvg-logo="" group-title="FILMES E SÉRIES", HBO 2
 http://magod.b-cdn.net/live/hbo2/chunks.m3u8?token=1Ybd56flN7kdu5zNp-x3PevCP53wPb2KWTaNY28zeoM&expires=1665927646
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES E SÉRIES", ESPAÇO
-http://magod.b-cdn.net/live/space/chunks.m3u8?token=o3TxVeBWbfwEpWeh_EL2H6iL0DwymJAFFyw7unTFRvg&expires=1665927646
+#EXTINF:-1 tvg-logo="" group-title="FILMES E SÉRIES", SPACE
+http://cdn2.connectbr.com.br/space/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES E SÉRIES", MEGAPIX
 http://magod.b-cdn.net/live/megapix/chunks.m3u8?token=bQckf4rhN3y5deGstB2wVIVE8mVydunpuULMr0VEvSg&expires=1665927646
