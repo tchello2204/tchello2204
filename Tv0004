@@ -675,9 +675,6 @@ http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
 #EXTINF:-1 group-title="INFANTIS" tvg-logo="http://toptv2.com:25461/logos/Gloob_HD.png",GLOOB 4K&8K
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/44133.ts
 
-#EXTINF:-1 group-title="INFANTIS" tvg-logo="http://toptv2.com:25461/logos/Gloob_HD.png",GLOOB
-http://magod.b-cdn.net/live/gloob/chunks.m3u8?token=QXGJcossV8fSMaY1JG2d8-4OKWuThkN5nIIV5YHvGdY&expires=1665900508
-
 #EXTINF:-1 group-title="INFANTIS" tvg-logo="http://toptv2.com:25461/logos/Gloob_HD.png",GLOOB HD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13701.ts
 
@@ -690,17 +687,11 @@ http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/44137.ts
 #EXTINF:-1 group-title="INFANTIS" tvg-logo="http://toptv2.com:25461/logos/Boomerang_UHD.png",BOOMERANG HD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13753.ts
 
-#EXTINF:-1 group-title="INFANTIS" tvg-logo="http://toptv2.com:25461/logos/Boomerang_UHD.png",BOOMERANG
-http://95.141.37.245:8081/loadbalance/bomerang/chunks.m3u8?nimblesessionid=12824283&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyMiA1OjU0OjE5IFBNJmhhc2hfdmFsdWU9MWQ0RURkb2R3T0hXVlY0Y0JNbDM2UT09JnZhbGlkbWludXRlcz0yMA==
-
 #EXTINF:-1 group-title="INFANTIS" tvg-logo="http://toptv2.com:25461/logos/tvr-atim-bbum.png",TV RA TIM BUM 4K & 8K
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/44145.ts
 
 #EXTINF:-1 group-title="INFANTIS" tvg-logo="http://toptv2.com:25461/logos/tvr-atim-bbum.png",TV RA TIM BUM HD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13904.ts
-
-#EXTINF:-1 group-title="INFANTIS" tvg-logo="http://toptv2.com:25461/logos/Discovery_kids.png",DISCOVERY KIDS
-http://magod.b-cdn.net/live/discoverykids/chunks.m3u8?token=u70ZAZbjHA_Ie05wMaA-YwkoNRS4e91vd1zUxAhyBXs&expires=1665900508
 
 #EXTINF:-1 group-title="INFANTIS" tvg-logo="http://toptv2.com:25461/logos/Discovery_kids.png",DISCOVERY KIDS 4K&8K
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/44158.ts
@@ -708,14 +699,8 @@ http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/44158.ts
 #EXTINF:-1 group-title="INFANTIS" tvg-logo="http://toptv2.com:25461/logos/Discovery_kids.png",DISCOVERY KIDS HD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13678.ts
 
-#EXTINF:-1 group-title="INFANTIS" tvg-logo="", DESENHOS ANIMADOS
-http://95.141.37.245:8081/loadbalance/cartoon/chunks.m3u8?nimblesessionid=12824119&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyMiA1OjUwOjI0IFBNJmhhc2hfdmFsdWU9MmF2ZGdqbisrU1BUTkJ4VSt4ZThZQT09JnZhbGlkbWludXRlcz0yMA==
-
 #EXTINF:-1 group-title="INFANTIS" tvg-logo="http://toptv2.com:25461/logos/cartoon-network-.png",CARTOON NETWORK HD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13673.ts
-
-#EXTINF:-1 group-title="INFANTIS" tvg-logo="http://toptv2.com:25461/logos/cartoon-network-.png",CARTOON NETWORK
-http://magod.b-cdn.net/live/cartoonnetwork/chunks.m3u8?token=bdSsrk9Y929xAhGe3zMhpe6YPc9mMfHBFxMWD1ME2JU&expires=1665900508
 
 #EXTINF:-1 group-title="INFANTIS" tvg-logo="http://toptv2.com:25461/logos/nickelodeon.png",NICKELODEON HD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13897.ts7
@@ -731,9 +716,6 @@ http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13782.ts
 
 #EXTINF:-1 group-title="INFANTIS" tvg-logo="http://toptv2.com:25461/logos/Disney_Channel.png",DISNEY CHANNEL HD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13682.ts
-
-#EXTINF:-1 group-title="INFANTIS" tvg-logo="http://toptv2.com:25461/logos/Disney_Channel.png",DISNEY CHANNEL
-http://magod.b-cdn.net/live/disneychannel/chunks.m3u8?token=VM-sC4bd_Dhp7UMHuNY5cs9o4MGGK8lqDvVkqbD_lZU&expires=1665900407
 
 #EXTINF:-1 group-title="INFANTIS" tvg-logo="http://toptv2.com:25461/logos/disney-junior.png",DISNEY JUNIOR HD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13754.ts
@@ -777,14 +759,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213638
 #EXTINF:-1 tvg-logo="" group-title="INFANTIS",As Aventuras de Jackie Chan | ligação 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="INFANTIS",Anime Ação | Plutão TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png" group-title="INFANTIS",Anime Ação | ligação 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e8b564ff59d130007363823/colorLogoPNG.png" group-title="INFANTIS",As Pistas de Azul | Plutão TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e8b564ff59d130007363823/colorLogoPNG.png" group-title="INFANTIS",As Pistas de Azul | ligação 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -813,9 +789,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0
 #EXTINF:-1 tvg-logo="" group-title="INFANTIS",Junior | Plutão TV Brasil
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="INFANTIS",Crianças | Plutão TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" group-title="INFANTIS",Crianças | ligação 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
@@ -824,12 +797,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a17
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5da0c85bd2c9c10009370984/colorLogoPNG.png" group-title="INFANTIS",Naruto | ligação 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="INFANTIS",Nick Clássico | Plutão TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="INFANTIS",Nick Clássico | Plutão TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="INFANTIS",Nick Clássico | ligação 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
