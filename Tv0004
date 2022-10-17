@@ -678,6 +678,9 @@ http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/44137.ts
 #EXTINF:-1 group-title="INFANTIS" tvg-logo="",BOOMERANG HD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13753.ts
 
+#EXTINF:-1 group-title="INFANTIS" tvg-logo="",BOOMERANG
+http://95.141.37.245:8081/loadbalance/bomerang/chunks.m3u8?nimblesessionid=12824283&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyMiA1OjU0OjE5IFBNJmhhc2hfdmFsdWU9MWQ0RURkb2R3T0hXVlY0Y0JNbDM2UT09JnZhbGlkbWludXRlcz0yMA==
+
 #EXTINF:-1 group-title="INFANTIS" tvg-logo="",TV RA TIM BUM 4K & 8K
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/44145.ts
 
@@ -692,6 +695,9 @@ http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/44158.ts
 
 #EXTINF:-1 group-title="INFANTIS" tvg-logo="",DISCOVERY KIDS HD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13678.ts
+
+#EXTINF:-1 group-title="INFANTIS" tvg-logo="", CARTOON
+http://95.141.37.245:8081/loadbalance/cartoon/chunks.m3u8?nimblesessionid=12824119&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyMiA1OjUwOjI0IFBNJmhhc2hfdmFsdWU9MmF2ZGdqbisrU1BUTkJ4VSt4ZThZQT09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTINF:-1 group-title="INFANTIS" tvg-logo="",CARTOON NETWORK HD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13673.ts
