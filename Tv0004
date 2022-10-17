@@ -9,12 +9,6 @@ https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/4SR841qH4t7ZHunmN
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="", JOGOS|3
 https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/0LNB5G7cnK1c8QhH-JOqrmkJRTn0Pv6MbtxGpTE7WLIu8OxOYYrSqOxwspBq18N3VbsHnDu-4ci7y59p7wAoIg1/transcode/us-east-1/periscope-replay-direct east-public /eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfhttps://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/rmtv54NqpQiWxz9vcs6jp3c3MwrI54KuB-A7bXHpPl9O_sEiJzjwQ4N5D0EnvUGgFEUJaPsb5gK9W4QlBSOhsQ/transcode/eu-west-3/periscope-replay- direct-prod-eu -west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live
 
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.imgur.com/mUxuHi4.jpg",COMBATE 4K
-https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/7vxtqTKxpBlKeMPosrzt7S-pzanQQhyaDhZ9XMyblnFhMjSAifULvLaQv8JqmrB8Z34F99lRWUp96hemYbtiRg/transcode/sa-1east-1/periscope-replay-direct-prod-sa-east -public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfhttps://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/7vxtqTKxpBlKeMPosrzt7S-pzanQQhyaDhZ9XMyblnFhMjSAifULvLaQv8JqmrB8Z34F99lRWUp96hemYbtiRg/transcode/sa-east-1/periscope-replay-direct- prod -sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8
-
-#EXTINF:-1 group-title="ESPORTES" tvg-logo="http://toptv2.com:25461/logos/combate_UHD.png",COMBATE UHD
-http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13675.ts
-
 #EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/combate_UHD.png" group-title="ESPORTES", COMBATE
 http://stlahiper.b-cdn.net/live/combate/chunks.m3u8?token=IIabd_eAA9kIdNjTK7PeC8-bVvapxPb69axeYlxuPUE&expires=1665739392
 
