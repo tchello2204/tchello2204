@@ -705,6 +705,9 @@ http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13897.ts7
 #EXTINF:-1 group-title="INFANTIS" tvg-logo="",NICKELODEON
 http://cdn.connectbr.com.br/Nickelodeon/index.m3u8
 
+#EXTINF:-1 group-title="INFANTIS" tvg-logo="",NICKELODEON
+http://cdn.connectbr.com.br/Nickelodeon/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="INFANTIS" tvg-logo="",DISNEY HD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13782.ts
 
