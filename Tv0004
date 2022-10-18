@@ -49,16 +49,16 @@ http://stlahiper.b-cdn.net/live/premiere6/chunks.m3u8?token=2nCiItRB-EEWDXyg9pXk
 http://stlahiper.b-cdn.net/live/premiere7/chunks.m3u8?token=ZvyVzLnILRWE1T_qYr0PrOoXM3LBKQdG76mRD1xshpg&expires=1665739392
 
 #EXTINF:-1 tvg-logo="https://multimidia.gazetadopovo.com.br/media/info/2018/201811/marcas-tv-transmissao/logo-sportv-ppv.png" group-title="ESPORTES", SPORTV
-http://stlahiper.b-cdn.net/live/sportv/chunks.m3u8?token=gkN0L2F15K4y4G1R1048V7Ma8O24ntoCjSNZqa0ba5Y&expires=1665739392
+http://magod.b-cdn.net/live/sportv/chunks.m3u8?token=eLVmqNoHQmZXd6ZwTpcqbOqVlMSJu5SGGF39rpTr51Y&expires=1666163217
 
 #EXTINF:-1 tvg-logo="https://multimidia.gazetadopovo.com.br/media/info/2018/201811/marcas-tv-transmissao/logo-sportv-ppv.png" group-title="ESPORTES", SPORTV 2
-http://stlahiper.b-cdn.net/live/sportv2/chunks.m3u8?token=tTU12Z89AdPEmZeijj7gyTM5dOGAhm7Q02SHZ4DTK-0&expires=1665741119
+http://magod.b-cdn.net/live/sportv2/chunks.m3u8?token=CQ5MMgNj1o8AQ7iYsY3d92-ReI4BZQjwOahmogdBK_M&expires=1666163217
 
 #EXTINF:-1 tvg-logo="https://multimidia.gazetadopovo.com.br/media/info/2018/201811/marcas-tv-transmissao/logo-sportv-ppv.png" group-title="ESPORTES", SPORTV 3
-http://stlahiper.b-cdn.net/live/sportv3/chunks.m3u8?token=nnRaeRFOEvDUxju278l6CsB6WDPTlBWJF67maF2z0Wo&expires=1665739392
+http://magod.b-cdn.net/live/sportv3/chunks.m3u8?token=LdZpNuqhsn7_FD7GE1DsqELMICCIXjC-7qMx8685tYs&expires=1666163217
 
 #EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/ESPN_FHD.png" group-title="ESPORTES", ESPN
-http://stlahiper.b-cdn.net/live/espn/chunks.m3u8?token=FmzfBF-iQt4BaXNFuVO9JyQJKIp7r6REn7LxfAX_xiU&expires=1665739392
+http://magod.b-cdn.net/live/espn/chunks.m3u8?token=6Nog0YfzXh8hf8Vg9eaF-Uh4pK5cBe1JFV23t6fd_OI&expires=1666163217
 
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="http://toptv2.com:25461/logos/ESPN_2.png",",ESPN 2 HD
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13893.ts
@@ -67,10 +67,10 @@ http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13893.ts
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13860.ts
 
 #EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/ESPN_2.png"," group-title="ESPORTES", ESPN 2
-http://stlahiper.b-cdn.net/live/espn2/chunks.m3u8?token=7AoINwsppjTBBaHQcBLLDoM-IFgRdLc7y_E2vZIhYxc&expires=1665739392
+http://magod.b-cdn.net/live/espn2/chunks.m3u8?token=B6uHA9GmNb4dChlnusL8aBGJCKaWSuWjBQL4Xj06WZ0&expires=1666163217
 
 #EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/ESPN_2.png"," group-title="ESPORTES", ESPN 4
-http://stlahiper.b-cdn.net/live/espn4/chunks.m3u8?token=clTG4jIOQA3eCeweRmop5MWD2oOWr_iTPwDxSjfrdbE&expires=1665739392
+http://magod.b-cdn.net/live/espn4/chunks.m3u8?token=FXHwLbiMFkC3LlPYJJMfPq0OVdw7ZMBf3biZn2qB6og&expires=1666163217
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mUxuHi4.jpg" group-title="ESPORTES",TODOS OS ESPORTES HD
 https://5cf4a2c2512a2.streamlock.net:443/dgrau/dgrau/chunklist_w302004459.m3u8
