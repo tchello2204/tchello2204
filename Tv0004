@@ -220,7 +220,7 @@ http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/43524.ts
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES E SÉRIES", TELECINE ACTION
-http://magod.b-cdn.net/live/telecineaction/chunks.m3u8?token=nZ1nk9GqKtp5wP1nouAge1AlIDQ2_iwqDmVD68ygEvg&expires=1665927646
+http://painelvj.com.br:80/tvaguaboa2/tvaguaboa2.sdp/chunklist_w922975881.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES E SÉRIES", TELECINE PIPOCA
 http://magod.b-cdn.net/live/telecinepipoca/chunks.m3u8?token=luhxh8guAvAwcrESjBJHJ3q8I5A_oNTz2vxJls2K1gY&expires=1665927646
