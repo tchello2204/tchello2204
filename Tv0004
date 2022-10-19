@@ -678,7 +678,7 @@ http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/27312.ts
 #EXTINF:-1 group-title="INFANTIS" tvg-logo="http://toptv2.com:25461/logos/Boomerang_UHD.png",BOOMERANG 4K&8K
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/44137.ts
 
-#EXTINF:-1 group-title="INFANTIS" tvg-logo="http://toptv2.com:25461/logos/Boomerang_UHD.png",BOOMERANG HD
+#EXTINF:-1 group-title="INFANTIS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWnXnCDogxcds46BJ7r-ADUHg902dEYCBzOA&usqp=CAU",CARTOONITO
 http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13753.ts
 
 #EXTINF:-1 group-title="INFANTIS" tvg-logo="http://toptv2.com:25461/logos/tvr-atim-bbum.png",TV RA TIM BUM 4K & 8K
