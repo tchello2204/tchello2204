@@ -219,6 +219,9 @@ http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/43524.ts
 #EXTINF:-1 tvg-logo="" group-title="ESPORTES",MLS - Futebol | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon =0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=desconhecido
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzzwUxV9PTr47y6fpwppa0GBWGlWbnEQwjVQ&usqp=CAU" group-title="FILMES E SÉRIES", GHOST TV
+https://stmv.video.expressolider.com.br:443/ghostv/ghostv/chunklist_w1232918101.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="FILMES E SÉRIES", TELECINE ACTION
 http://painelvj.com.br:80/tvaguaboa2/tvaguaboa2.sdp/chunklist_w922975881.m3u8
 
