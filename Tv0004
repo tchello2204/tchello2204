@@ -69,7 +69,7 @@ http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13860.ts
 #EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/ESPN_2.png"," group-title="ESPORTES", ESPN 2
 http://magod.b-cdn.net/live/espn2/chunks.m3u8?token=B6uHA9GmNb4dChlnusL8aBGJCKaWSuWjBQL4Xj06WZ0&expires=1666163217
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2iJ92pRhBsuqLPpWXuObszZ0V7Yc0so27Ww&usqp=CAU"," group-title="ESPORTES", ESPN 4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2iJ92pRhBsuqLPpWXuObszZ0V7Yc0so27Ww&usqp=CAU" " group-title="ESPORTES", ESPN 4
 http://magod.b-cdn.net/live/espn4/chunks.m3u8?token=FXHwLbiMFkC3LlPYJJMfPq0OVdw7ZMBf3biZn2qB6og&expires=1666163217
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuurSZZ9P_GXvVGOOYHK7mlUqVXfa3DanM_A&usqp=CAU" group-title="ESPORTES",TODOS OS ESPORTES HD
