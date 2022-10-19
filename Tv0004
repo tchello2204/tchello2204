@@ -699,9 +699,6 @@ http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13673.ts
 #EXTINF:-1 group-title="INFANTIS" tvg-logo="http://toptv2.com:25461/logos/cartoon-network-.png",CARTOON NETWORK 
 https://playout.cdn.cartoonnetwork.com.br:443/playout_01/playlist-720p.m3u8
 
-#EXTINF:-1 group-title="INFANTIS" tvg-logo="http://toptv2.com:25461/logos/nickelodeon.png",NICKELODEON HD
-http://212.8.243.99:2095/live/dtv_770431/raDRyhfJ/13897.ts7
-
 #EXTINF:-1 group-title="INFANTIS" tvg-logo="http://toptv2.com:25461/logos/nickelodeon.png",NICKELODEON
 http://cdn.connectbr.com.br/Nickelodeon/index.m3u8
 
