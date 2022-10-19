@@ -258,7 +258,7 @@ http://magod.b-cdn.net/live/hbo2/chunks.m3u8?token=1Ybd56flN7kdu5zNp-x3PevCP53wP
 #EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/SPACE_HD.png" group-title="FILMES E SÉRIES", SPACE
 http://cdn2.connectbr.com.br/space/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Megapix_4K.png"," group-title="FILMES E SÉRIES", MEGAPIX
+#EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/Megapix_4K.png" " group-title="FILMES E SÉRIES", MEGAPIX
 http://magod.b-cdn.net/live/megapix/chunks.m3u8?token=bQckf4rhN3y5deGstB2wVIVE8mVydunpuULMr0VEvSg&expires=1665927646
 
 #EXTINF:-1 group-title="FILMES E SÉRIES" tvg-logo="http://toptv2.com:25461/logos/Telecine_Action_4K.png",TELECINE ACTION 4K
