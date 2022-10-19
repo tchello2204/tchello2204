@@ -72,10 +72,10 @@ http://magod.b-cdn.net/live/espn2/chunks.m3u8?token=B6uHA9GmNb4dChlnusL8aBGJCKaW
 #EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/ESPN_2.png"," group-title="ESPORTES", ESPN 4
 http://magod.b-cdn.net/live/espn4/chunks.m3u8?token=FXHwLbiMFkC3LlPYJJMfPq0OVdw7ZMBf3biZn2qB6og&expires=1666163217
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mUxuHi4.jpg" group-title="ESPORTES",TODOS OS ESPORTES HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuurSZZ9P_GXvVGOOYHK7mlUqVXfa3DanM_A&usqp=CAU" group-title="ESPORTES",TODOS OS ESPORTES HD
 https://5cf4a2c2512a2.streamlock.net:443/dgrau/dgrau/chunklist_w302004459.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mUxuHi4.jpg" group-title="ESPORTES",BAND SPORTS HD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandsports-logo.png" group-title="ESPORTES",BAND SPORTS HD
 http://cdn.connectbr.com.br/BandSports/index.m3u8
 
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="http://toptv2.com:25461/logos/ESPN_Brasil_UHD.png",",ESPN BRASIL FHD
