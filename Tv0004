@@ -27,6 +27,9 @@ http://glxlmn026c.singularcdn.net.br:80/playout_04/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1J9f1r7.png" group-title="ESPORTES", TNT 5
 http://glxlmn026c.singularcdn.net.br:80/playout_05/playlist-720p.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU3-HjCHcQLOwSDKd5XpB3TLj6Cnw4eq9hLQ&usqp=CAU" group-title="ESPORTES", DIRECTV SPORTS
+http://190.210.221.119:80/Processor3_9_chunklist_b1300000.m3u8
+
 #EXTINF:-1 tvg-logo="http://toptv2.com:25461/logos/premiere-clubes.png" group-title="ESPORTES", PREMIERE CLUBES
 http://magod.b-cdn.net/live/premiereclubes/chunks.m3u8?token=PqzAhvybuL0D1_w0k8vNSjJ4wR2brKEH10TO-PfZfoQ&expires=1665920221
 
