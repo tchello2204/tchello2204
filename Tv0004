@@ -24,6 +24,10 @@ https://input.futebolgratis.net:8088/hls/livechannel3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ESPORTES", JOGOS|4
 https://livestreams.flote.app:5443/flote/streams/e7763fbb-343b-4197-9cf1-aff8a02485de.m3u8
 
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES", JOGOS|5
+https://pull.xingliju.com/armenia/986876620.m3u8?auth_key=1666494780-0-0-920ba8efde3e055f7f80b0d9c9a76aee
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1J9f1r7.png" group-title="ESPORTES", TNT
 http://glxlmn026c.singularcdn.net.br:80/playout_01/playlist-720p.m3u8
 
