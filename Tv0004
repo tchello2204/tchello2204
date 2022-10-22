@@ -6,6 +6,9 @@ https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/fx4zSWJf2Muh2y
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="", JOGOS|1
 https://input.futebolgratis.net:8088/hls/livechannel1.m3u8?auth_key=1666206553-0-0-1741634783d475887dd9a08783f2f7d9
 
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="", JOGOS|1.1
+https://input.futebolgratis.net:8088/hls/livechannel1.m3u8
+
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="", JOGOS|2
 https://input.futebolgratis.net:8088/hls/livechannel2.m3u8?auth_key=1666206553-0-0-1741634783d475887dd9a08783f2f7d9
 
